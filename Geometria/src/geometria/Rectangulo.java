@@ -7,7 +7,11 @@ package geometria;
 
 /**
  *
- * @author javier
+ * Clase publica llamada Rectangulo que implementa el metodo FiguraGeometrica
+ * 
+ * @author Daniel Salatti Barroso
+ * @version 1.0
+ * @since 13/12/2021
  */
 public class Rectangulo implements FiguraGeometrica
 {
